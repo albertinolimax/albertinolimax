@@ -1,5 +1,7 @@
-### 😎 Obrigado por visitar o meu perfil do GitHub!
-##### 🚀Sucesso sempre!
+*****😎 Obrigado por visitar o meu perfil do GitHub!
+*****🎓 Analise e desenvolvimento de sistemas <br>
+*****🚀 Programador / desenvolvedor  <br>
+*****🚀Sucesso sempre!
 
 <div>
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"> 
