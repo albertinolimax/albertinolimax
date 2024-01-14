@@ -1,4 +1,4 @@
-<h1 align = "center">About Raphael Olimpio💻 </h1>
+<h1 align = "center">About Albertino lima💻 </h1>
   
 - 🎓 Analise e desenvolvimento de sistemas <br>
 - 🚀 Programador / desenvolvedor  <br>
