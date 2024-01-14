@@ -1,68 +1,40 @@
-*****😎 Obrigado por visitar o meu perfil do GitHub!
+<h1 align = "center">About Raphael Olimpio💻 </h1>
+  
+- 🎓 Analise e desenvolvimento de sistemas <br>
+- 🚀 Programador / desenvolvedor  <br>
+- ❤ Amor Imenso por cachorros🐶, natureza🌻, séries🎬, documentários📖 e jogos🎮 <br>
+- 📊<a target="_blank" href="https://github.com/Rapha29/CERFITICADOS"> Certificados </a> <br>
+- 💻<a target="_blank" href="https://rapha29.github.io/"> Pequeno Projeto </a> <br>
+- 💻<a target="_blank" href="https://www.vakinha.com.br/4125437"> Apoie o projeto - Estudando ADS </a> <br>
 
-*****🎓 Analise e desenvolvimento de sistemas <br>
-*****🚀 Programador / desenvolvedor  <br>
-*****🚀Sucesso sempre!
-
+## Habilidades principais:
+<div style="display: inline_block">
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="JQuery" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
+<img  align="center" alt="JQuery" height="50" width="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"> 
+<img  align="center" alt="JQuery" height="50" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="60">
+<img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img align="center" alt="vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
+<p align="center">
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="450" height="1">
+</p>
 <div>
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"> 
-
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
-
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
-
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60">
-
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60">
-
-<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="60">
-
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
-
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="60">
-
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="60">
-
-<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="60">
-
-<h2>
+  <img align="left" width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Rapha29&show_icons=true&theme=midnight-purple" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rapha29&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "Rapha29" />
+</div>
+<div> 
+  <a href="https://www.instagram.com/lunagoldenretri/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:rapha2929@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
-
-<a href="https://www.youtube.com/@albertinolimax/featured">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone">
-</a>
-
-<a href="https://www.instagram.com/p/Cc3Am1VuzLU/?utm_source=ig_web_button_share_sheet&igshid=MzRlODBiNWFlZA==">
-  <img src="https://img.shields.io/badge/instagram-FF0000r?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://replit.com/@albertinolimax">
-  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
-</a>
-
-<p></p>
-
-
-
- 
-
-
-
-
-
-<p align="center">
-
-
-
-
-
-
-
-
-
-
-
-
-</h4>
+<div align="center">
+<br><p align="centre"><b>Você é meu visitante nº</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rapha29}/count.svg" /></p> 
+<br>
+</div>
